@@ -1,0 +1,26 @@
+Illinois Massmail
+Changes to Zoom Sign In Process Beginning January 19, 2021
+January 14, 2021 2:47 PM
+Dear Students, Faculty and Staff,
+Throughout the transition to virtual meeting platforms, the University of Illinois has worked to reduce Zoombombings by intruders whose sole purpose has been to disrupt an online meeting with often racist, threatening, or violent images and views. However, at universities across the country including Illinois, Zoombombings continue to occur.
+To create safe, inclusive, and accessible online spaces for teaching and learning and further secure Zoom meetings, as of Tuesday, January 19, 2021, all University of Illinois users will be required to log in to their University of Illinois Zoom account using their university NetID and password to access University of Illinois Zoom meetings and events.
+We strongly recommend that you log in early to your first Zoom class or meeting on or after January 19 to ensure that you are properly signed in to your University of Illinois Zoom account.
+After opening the Zoom desktop or mobile application, follow the steps below:
+Click “Sign In”
+Then, click “Sign In with SSO”
+Type “Illinois” and click “Continue”
+Log in with your university NetID and password, and respond to the 2FA prompt.
+All University of Illinois users should click the Sign in with SSO (Single Sign-On) button first in order to log on to your University of Illinois Zoom account. Single Sign-On is the gateway to University of Illinois resources using your NetID and university password. Please review this article for step-by-step instructions: Zoom, Logging In.
+If you try to join a meeting before you have signed in with SSO, you may receive a message that says: “This Meeting is for Authorized Users Only.” To correct this problem, check that you have signed in through Single-Sign On, follow the steps on the page Zoom: Safe, Inclusive and Accessible Space for ALL, then open the meeting again.
+If you continue to have problems, please contact Technology Services Help Desk at consult@illinois.edu or call (217) 244-7000.
+Zoombombing attacks violate the mission and values of the University of Illinois, and no member of our community should need to experience the disrespectful intrusion and harm that these attacks can cause. If a Zoombombing does occur in a virtual class or meeting, please report the incident to the Office for Access & Equity or the Bias Assessment and Response Team. This change to a more secure login process for the University of Illinois community will allow us to continue to create the safe experience that our community deserves and expects while we teach, learn and work in virtual spaces during the Spring semester.
+Sincerely,
+Sean C. GarrickVice Chancellor for Diversity, Equity & Inclusion
+Kevin PittsVice Provost for Undergraduate Education
+Greg GulickInterim Chief Information Officer
+This mailing approved by:
+Vice Chancellor for Diversity, Equity & Inclusion
+sent to:
+Academic Professionals, Civil Service, Faculty, Extra Help, Graduate Students, Undergraduate Students, Incoming Graduate Students & Incoming Undergraduate Students
+Massmail Archive
+•
